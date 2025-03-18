@@ -1,0 +1,2 @@
+# TestCIofPlaywright
+公式docに従い、GitHubActionsでPlaywrightを実行するためにリポジトリを作成。
